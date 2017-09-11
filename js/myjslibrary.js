@@ -37,7 +37,7 @@ window.onclick = function(event) {
       }
     }
   };
-  //poi correggo effetto collaterale
+  //poi correggo effetto collaterale (ma non so più qual era?!?!?)
   if ((!event.target.matches('.icon')) && (!event.target.matches('.dropbtn'))) {
 
   	console.log('ci sono');
@@ -52,6 +52,7 @@ window.onclick = function(event) {
     }
   }
 }
+
 
 
 //MOSTRA IL PULSATE TO TOP

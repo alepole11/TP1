@@ -189,14 +189,17 @@ FOOTER
 *******************************************/
 
 	footer{
+		height: 60px;
+		background-color: #333;
+		color: #fff;
 		text-align: center;
 		clear: both; /*per avere pulito destra e sinistra, quindi resta sotto tutto*/
-		padding: 0 0 0 0;
-		background-color: grey;
+		padding: 20px 0 0 0;
 		
 	}
 
 	footer p{
+		margin: 0;
 		font-size: 0.85em;
 		text-align: center;
 	}
