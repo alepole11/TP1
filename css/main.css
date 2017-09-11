@@ -54,6 +54,7 @@ NAV
 	/* Add a black background color to the top navigation */
 	.topnav {
 	    background-color: #333;
+	    z-index: 100;
 	     /*tolto per vedere i link dropdown*/
 	}
 
